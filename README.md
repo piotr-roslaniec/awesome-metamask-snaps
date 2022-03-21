@@ -15,9 +15,9 @@ A curated list of awesome MetaMask Snaps related resources
 
 ## Snaps
 
-- [ChainSafe/filsnap](https://github.com/ChainSafe/filsnap) - MetaMask snap for interacting with Filecoin dapps.
-  - See [online demo](https://filsnap.chainsafe.io/)
+- [ChainSafe/filsnap](https://github.com/ChainSafe/filsnap) - MetaMask snap for interacting with Filecoin dapps. - [Demo](https://filsnap.chainsafe.io/)
 - [ChainSafe/metamask-snap-polkadot](https://github.com/ChainSafe/metamask-snap-polkadot) - Metamask plugin for interacting with Polkadot dapps and other Substrate based chains.
+- [piotr-roslaniec/ethdenver-2022](https://github.com/piotr-roslaniec/ethdenver-2022) - Access Aleo network from your browser using MetaMask. - [Demo](https://aleo-snap-ethdenver-2022.netlify.app/)
 - [cavanmflynn/solsnap](https://github.com/cavanmflynn/solsnap) - :warning: MetaMask snap (plugin) to enable interaction with Solana dApps.
 - [pwagner/metamask-snap-unlock-protocol-assets](https://github.com/pwagner/metamask-snap-unlock-protocol-assets) - :warning: Add Unlock Protocol keys and locks as assets in MetaMask.
 - [christoftorres/MetaMask-HoneyBadger-Plugin](https://github.com/christoftorres/MetaMask-HoneyBadger-Plugin) - :warning: HoneyBadger MetaMask Snap plugin for the MetaMask browser extension honey_pot electric_plug (ICBC 2020).
