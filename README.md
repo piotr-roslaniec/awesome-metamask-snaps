@@ -33,6 +33,7 @@ A curated list of awesome MetaMask Snaps related resources
 
 - [MetaMask/snaps-skunkworks examples](https://github.com/MetaMask/snaps-skunkworks/tree/main/packages/examples) - Official examples provided by MetaMask Snaps team.
 - [zbrumen/mmp2p](https://github.com/zbrumen/mmp2p) - An example, of how to use Metamask Snaps for a simple P2P chat website.
+- [piotr-roslaniec/snap-wasm-example](https://github.com/piotr-roslaniec/snap-wasm-example) - Using `wasm-pack`- generated WASM dependencies in snaps
 
 ### Templates
 
