@@ -28,6 +28,7 @@ A curated list of awesome MetaMask Snaps related resources
 ## Developer Resources
 
 - [Official MetaMask Snap docs](https://docs.metamask.io/guide/snaps.html)
+- [Snaplist](https://snaplist.org)
 
 ### Examples
 
