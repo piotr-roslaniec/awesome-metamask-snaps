@@ -24,7 +24,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [ChainSafe/metamask-eth2](https://github.com/ChainSafe/metamask-eth2) - :warning: Metamask snap plugin for eth2.
 - [cybercongress/cyb-snap](https://github.com/cybercongress/cyb-snap) - :warning: cyb snap for metamask / cyber and cosmos wallet.
 - [interlay/metamask-snap-bitcoin](https://github.com/interlay/metamask-snap-bitcoin) - :warning: Metamask Bitcoin Plugin.
-- [paulfears/snapalgo](https://github.com/paulfears/snapalgo) - Metamask snap for interacting with the algorand network - [demo](https://snapalgo.com/)
+- [paulfears/snapalgo](https://github.com/paulfears/snapalgo) - MetaMask snap for interacting with the Algorand blockchain - [Demo](https://snapalgo.com/)
 ## Developer Resources
 
 - [Official MetaMask Snap docs](https://docs.metamask.io/guide/snaps.html)
