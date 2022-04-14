@@ -11,6 +11,7 @@ A curated list of awesome MetaMask Snaps related resources
   - [Developer Resources](#developer-resources)
     - [Examples](#examples)
     - [Templates](#templates)
+    - [Tutorials](#tutorials)
   - [Articles](#articles)
 
 ## Snaps
@@ -43,6 +44,11 @@ A curated list of awesome MetaMask Snaps related resources
 ### Templates
 
 - [MetaMask/template-snap](https://github.com/MetaMask/template-snap) - Snap Template in JS
+
+### Tutorials
+
+- [The 30-Minute Snap Tutorial](https://github.com/Montoya/address-book-snap-tutorial#the-30-minute-snap-tutorial)
+- [The 5-Minute Snap Tutorial](https://github.com/Montoya/gas-fee-snap#the-5-minute-snap-tutorial)
 
 ## Articles
 
