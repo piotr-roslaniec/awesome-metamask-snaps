@@ -21,6 +21,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [piotr-roslaniec/ethdenver-2022](https://github.com/piotr-roslaniec/ethdenver-2022) - Access Aleo network from your browser using MetaMask. - [Demo](https://aleo-snap-ethdenver-2022.netlify.app/)
 - [paulfears/snapalgo](https://github.com/paulfears/snapalgo) - MetaMask snap for interacting with the Algorand blockchain - [Demo](https://snapalgo.com/)
 - [@authenticid-labs/real-id-snap](https://github.com/AuthenticID-Labs/real-id-snap/tree/main) - Generate Merkle Proof from Encrypted Data
+- [ritave/snap-passwordManager](https://github.com/ritave/snap-passwordManager) - A secure password manager using encrypted data storage available to Snaps
 <!-- Place new snaps up here!  -->
 <!-- Deprecated snaps start below -->
 - [cavanmflynn/solsnap](https://github.com/cavanmflynn/solsnap) - :warning: MetaMask snap (plugin) to enable interaction with Solana dApps.
