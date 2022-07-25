@@ -49,7 +49,7 @@ A curated list of awesome MetaMask Snaps related resources
 
 - [MetaMask/template-snap](https://github.com/MetaMask/template-snap) - Snap Template in JS
 - [MetaMask/template-typescript-snap](https://github.com/MetaMask/template-typescript-snap) - Snap Template in TS
-- [metamask-snap-ts-nextjs](https://github.com/einaralex/metamask-snap-ts-nextjs) 
+- [metamask-snap-ts-nextjs](https://github.com/einaralex/metamask-snap-ts-nextjs)
 
 ### Tutorials
 
