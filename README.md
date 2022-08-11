@@ -24,7 +24,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [ritave/snap-passwordManager](https://github.com/ritave/snap-passwordManager) - A secure password manager using encrypted data storage available to Snaps
 - [KeystoneHQ/btcsnap](https://github.com/KeystoneHQ/btcsnap) - Manage your bitcoin with Metamask Flask and btcsnap - [Demo](https://btcsnap.netlify.app/)
 - [pianity/arsnap](https://github.com/pianity/arsnap) - Arweave Snap for Metamask
-- [blockchain-lab-um/ssi-snap](https://github.com/blockchain-lab-um/ssi-snap) - Snap for managing VCs and DIDs in MetaMask
+- [blockchain-lab-um/ssi-snap](https://github.com/blockchain-lab-um/ssi-snap) - Snap for managing VCs and DIDs in MetaMask - [Demo](https://blockchain-lab-um.github.io/course-dapp/), [Docs](https://blockchain-lab-um.github.io/ssi-snap-docs/)
 <!-- Place new snaps up here!  -->
 <!-- Deprecated snaps start below -->
 - [cavanmflynn/solsnap](https://github.com/cavanmflynn/solsnap) - :warning: MetaMask snap (plugin) to enable interaction with Solana dApps.
