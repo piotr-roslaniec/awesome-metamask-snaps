@@ -22,7 +22,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [paulfears/snapalgo](https://github.com/paulfears/snapalgo) - MetaMask snap for interacting with the Algorand blockchain - [Demo](https://snapalgo.com/)
 - [@authenticid-labs/real-id-snap](https://github.com/AuthenticID-Labs/real-id-snap/tree/main) - Generate Merkle Proof from Encrypted Data
 - [ritave/snap-passwordManager](https://github.com/ritave/snap-passwordManager) - A secure password manager using encrypted data storage available to Snaps
-- [KeystoneHQ/btcsnap](https://github.com/KeystoneHQ/btcsnap) - Manage your bitcoin with Metamask Flask and btcsnap - [Demo](https://btcsnap.netlify.app/)
+- [KeystoneHQ/btcsnap](https://github.com/KeystoneHQ/btcsnap) - Manage your bitcoin with Metamask Flask and btcsnap
 - [pianity/arsnap](https://github.com/pianity/arsnap) - Arweave Snap for Metamask
 - [blockchain-lab-um/ssi-snap](https://github.com/blockchain-lab-um/ssi-snap) - Snap for managing VCs and DIDs in MetaMask - [Demo](https://blockchain-lab-um.github.io/course-dapp/), [Docs](https://blockchain-lab-um.github.io/ssi-snap-docs/)
 <!-- Place new snaps up here!  -->
