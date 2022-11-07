@@ -25,6 +25,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [KeystoneHQ/btcsnap](https://github.com/KeystoneHQ/btcsnap) - Manage your bitcoin with Metamask Flask and btcsnap
 - [pianity/arsnap](https://github.com/pianity/arsnap) - Arweave Snap for Metamask
 - [blockchain-lab-um/ssi-snap](https://github.com/blockchain-lab-um/ssi-snap) - Snap for managing VCs and DIDs in MetaMask - [Demo](https://blockchain-lab-um.github.io/course-dapp/), [Docs](https://blockchain-lab-um.github.io/ssi-snap-docs/)
+- [Safeheron/mpcsnap](https://github.com/Safeheron/mpcsnap) - MPCSnap provides a 2/2 MPC wallet between MetaMask Snap and Keystone to manage EVM assets.
 <!-- Place new snaps up here!  -->
 <!-- Deprecated snaps start below -->
 - [cavanmflynn/solsnap](https://github.com/cavanmflynn/solsnap) - :warning: MetaMask snap (plugin) to enable interaction with Solana dApps.
