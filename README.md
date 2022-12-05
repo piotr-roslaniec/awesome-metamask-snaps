@@ -50,6 +50,7 @@ A curated list of awesome MetaMask Snaps related resources
 
 - [MetaMask/template-snap](https://github.com/MetaMask/template-snap) - Snap Template in JS
 - [MetaMask/template-typescript-snap](https://github.com/MetaMask/template-typescript-snap) - Snap Template in TS
+- [MetaMask/test-snaps](https://github.com/MetaMask/test-snaps) - A monorepo for Snaps used for QA and end-to-end tests, with an accompanying GitHub Pages website. Like MetaMask/test-dapp, but for Snaps.
 - [metamask-snap-ts-nextjs](https://github.com/einaralex/metamask-snap-ts-nextjs)
 
 ### Tutorials
