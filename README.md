@@ -60,7 +60,6 @@ A curated list of awesome MetaMask Snaps related resources
 
 ## Articles
 
-- [How MetaMask Flask Enables Developers To Build The Latest Technical Innovations In Web3](https://consensys.net/blog/metamask/how-metamask-flask-enables-developers-to-build-the-latest-technical-innovations-in-web3/)
 - [A Quick Guide to MetaMask Snaps](https://etherworld.co/2022/01/19/a-quick-guide-to-metamask-snaps/)
 
 ---
