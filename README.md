@@ -37,6 +37,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [piotr-roslaniec/ethwarsaw-2022](https://github.com/piotr-roslaniec/ethwarsaw-2022) - [Demo](https://aleph-zero-snap.netlify.app), [Article](https://metamask.io/news/developers/aleph-zero-snap-onboarding-web-3-users-to-aleph-zero-network/)
 - [Niraj-Kamdar/Polysnap](https://github.com/Niraj-Kamdar/Polysnap) - Invoke Polywrap Wasm Wrappers on the fly, in the browser with Metamask snaps. - [Article](https://metamask.io/news/developers/polysnap-invoking-polywrap-wasm-wrappers-on-the-fly/)
 - [Tbaut/template-snap-monorepo](https://github.com/Tbaut/template-snap-monorepo) - Trust score snap demo - [Tweet](https://twitter.com/Tbaut/status/1586805954405928967?t=ZHog6T6Jj_SYiEivhRxGhA&s=09)
+- [aquiladev/bls-snap](https://github.com/aquiladev/bls-snap) - The MetaMask Snap for BLS Wallet
 
 ### Deprecated Snaps
 
