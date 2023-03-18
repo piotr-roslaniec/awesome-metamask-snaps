@@ -7,7 +7,9 @@ A curated list of awesome MetaMask Snaps related resources
 ## Contents
 
 - [Awesome Metamask Snaps](#awesome-metamask-snaps)
+  - [Contents](#contents)
   - [Snaps](#snaps)
+    - [Deprecated Snaps](#deprecated-snaps)
   - [Developer Resources](#developer-resources)
     - [Examples](#examples)
     - [Templates](#templates)
@@ -38,6 +40,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [Niraj-Kamdar/Polysnap](https://github.com/Niraj-Kamdar/Polysnap) - Invoke Polywrap Wasm Wrappers on the fly, in the browser with Metamask snaps. - [Article](https://metamask.io/news/developers/polysnap-invoking-polywrap-wasm-wrappers-on-the-fly/)
 - [Tbaut/template-snap-monorepo](https://github.com/Tbaut/template-snap-monorepo) - Trust score snap demo - [Tweet](https://twitter.com/Tbaut/status/1586805954405928967?t=ZHog6T6Jj_SYiEivhRxGhA&s=09)
 - [aquiladev/bls-snap](https://github.com/aquiladev/bls-snap) - The MetaMask Snap for BLS Wallet
+- [AstroxNetwork/ord_snap](https://github.com/AstroxNetwork/ord_snap) - The MetaMask Snap for Ordinals/BitCoin/Lightning Network/Nostr
 
 ### Deprecated Snaps
 
