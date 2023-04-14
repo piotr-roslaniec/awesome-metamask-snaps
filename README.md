@@ -21,7 +21,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [ChainSafe/filsnap](https://github.com/ChainSafe/filsnap) - MetaMask snap for interacting with Filecoin dapps. - [Demo](https://filsnap.chainsafe.io/)
 - [ChainSafe/metamask-snap-polkadot](https://github.com/ChainSafe/metamask-snap-polkadot) - Metamask plugin for interacting with Polkadot dapps and other Substrate based chains.
 - [bide-dev/aleo-wallet-snap](https://github.com/bide-dev/aleo-wallet-snap) - Access Aleo network from your browser using MetaMask. - [Demo](https://aleo-snap.netlify.app/)
-- [paulfears/snapalgo](https://github.com/paulfears/snapalgo) - MetaMask snap for interacting with the Algorand blockchain - [Demo](https://snapalgo.com/)
+- [paulfears/snapalgo](https://github.com/paulfears/snapalgo) - MetaMask snap for interacting with the Algorand blockchain
 - [@authenticid-labs/real-id-snap](https://github.com/AuthenticID-Labs/real-id-snap/tree/main) - Generate Merkle Proof from Encrypted Data
 - [ritave/snap-passwordManager](https://github.com/ritave/snap-passwordManager) - A secure password manager using encrypted data storage available to Snaps
 - [KeystoneHQ/btcsnap](https://github.com/KeystoneHQ/btcsnap) - Manage your bitcoin with Metamask Flask and btcsnap
