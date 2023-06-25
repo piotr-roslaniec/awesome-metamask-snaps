@@ -28,7 +28,7 @@ A curated list of awesome MetaMask Snaps related resources
 - [pianity/arsnap](https://github.com/pianity/arsnap) - Arweave Snap for Metamask
 - [blockchain-lab-um/ssi-snap](https://github.com/blockchain-lab-um/ssi-snap) - Snap for managing VCs and DIDs in MetaMask - [Demo](https://blockchain-lab-um.github.io/course-dapp/), [Docs](https://blockchain-lab-um.github.io/ssi-snap-docs/)
 - [Safeheron/mpcsnap](https://github.com/Safeheron/mpcsnap) - MPCSnap provides a 2/2 MPC wallet between MetaMask Snap and Keystone to manage EVM assets.
-- [alekcangp/bgl-snap](https://github.com/alekcangp/bgl-snap) - MetaMask snap for Bitgesell network - [Demo](https://snap.bglnode.online/)
+- [alekcangp/bgl-snap](https://github.com/alekcangp/bgl-snap) - MetaMask snap for Bitgesell network
 - [AlexCheema/auto-tx](https://github.com/AlexCheema/auto-tx) - MetaMask snap supercharging the Web3 gaming experience with automatic secure transaction signing - [Site](https://dorahacks.io/buidl/3807)
 - [s-a-malik/blackbelt](https://github.com/s-a-malik/blackbelt) - Self defense against scams directly in your metamask - [Site](https://ethglobal.com/showcase/blackbelt-vp2d4), [Article](https://metamask.io/news/developers/blackbelt-snap-real-time-self-defense-against-scams/)
 - [therealharpaljadeja/sourcify-snap](https://github.com/therealharpaljadeja/sourcify-snap) - Sourcify Snap that describes what function user is about to call - [Demo](https://sourcify-snap-site.vercel.app)
