@@ -42,12 +42,13 @@ A curated list of awesome MetaMask Snaps related resources
 - [aquiladev/bls-snap](https://github.com/aquiladev/bls-snap) - The MetaMask Snap for BLS Wallet
 - [AstroxNetwork/ord_snap](https://github.com/AstroxNetwork/ord_snap) - The MetaMask Snap for Ordinals/BitCoin/Lightning Network/Nostr
 - [airgap-it/tezos-metamask-snap](https://github.com/airgap-it/tezos-metamask-snap) - MetaMask Snap proof-of-concept to add Tezos support
+- [kleros/scout-snap](https://github.com/kleros/scout-snap) - A Metamask Snap project that serves as a page to allow you to connect your Metamask Flask and install the Kleros contract insights snap (that uses data from Kleros Curate).
 
 ### Deprecated Snaps
 
 > **Warning**
 >
-> These resources could be out-dated and date pre MetaMask Snap beta release
+> These resources could be outdated and date pre-MetaMask Snap beta release
 
 - [cavanmflynn/solsnap](https://github.com/cavanmflynn/solsnap) - MetaMask snap (plugin) to enable interaction with Solana dApps.
 - [pwagner/metamask-snap-unlock-protocol-assets](https://github.com/pwagner/metamask-snap-unlock-protocol-assets) - Add Unlock Protocol keys and locks as assets in MetaMask.
