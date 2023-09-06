@@ -1,6 +1,8 @@
 # Awesome Metamask Snaps
 
-A curated list of awesome MetaMask Snaps related resources
+A curated list of awesome MetaMask Snaps-related resources
+
+Discover more snaps in [Snaps Directory](https://snaps.directory/)
 
 ---
 
